@@ -1,0 +1,7 @@
+{
+	"packageUrl" : "http://127.0.0.1:8888/update/package",
+	"remoteVersionUrl" : "http://127.0.0.1:8888/update/version.manifest",
+	"remoteManifestUrl" : "http://127.0.0.1:8888/update/project.manifest",
+	"version" : "0.0.0",
+	"engineVersion" : "cocos3.5",
+}
